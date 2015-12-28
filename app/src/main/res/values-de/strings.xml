@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="email" >Email</string>
+
+    <string name="password">Passwort</string>
+    <string name="login">Anmeldung</string>
+    <string name="search">Suche</string>
+    <string name="area">Bereich</string>
+<string name="signup">Noch kein Konto? Erstelle einen</string>
+</resources>
